@@ -12,7 +12,7 @@ The goal is simple:
 **You manage growth, development and the client relationship - SERVER1 manages infrastructure.**
 
 Partners can earn recurring commission, request custom infrastructure, coordinate migrations and technical planning with SERVER1, access supported services through API where applicable, protect referred client relationships, and become eligible for relevant opportunities referred by SERVER1.
-
+https://server1.ge/partners
 ---
 
 ## Table of Contents
